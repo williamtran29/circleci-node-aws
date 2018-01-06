@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t arbornetworks-docker-public-docker.bintray.io/circleci-node-aws:8.4.0 .
+docker build -t whitecat29/circleci-node-aws:latest .
