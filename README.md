@@ -4,7 +4,7 @@ CircleCI 2.0 image for NodeJS with AWS CLI and rsync
 
 ## Usage
 ```sh
-$ docker run whitecat29/circleci-node-aws:lastest node -v
+$ docker run whitecat29/circleci-node-aws:latest node -v
 v8.1.2
 
 $ docker run whitecat29/circleci-node-aws:latest npm -v
